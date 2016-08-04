@@ -1,0 +1,11 @@
+.jumbotron {
+  background-image: url(../img/jumbo.jpg);
+  background-position: 0% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: auto;
+  height: 800px;;
+  display: block;
+  margin-left: auto;;
+  margin-right: auto;
+}
